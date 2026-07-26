@@ -1,0 +1,12 @@
+---
+format: html
+author: Katy and Duncan
+title: General Information
+---
+
+
+## Location
+Our wedding will be at [Storey's Field Centre](https://www.storeysfieldcentre.org.uk/contact2/) in Eddington, just north of the centre of Cambridge.
+
+* [Travel and Parking](pages/parking.qmd)
+* [Accommodation](pages/accommodation.qmd)
