@@ -4,9 +4,24 @@ author: Katy and Duncan
 title: General Information
 ---
 
-
 ## Location
+
+![](images/AN08.png){width="20%" .wrap-right}
+
+
 Our wedding will be at [Storey's Field Centre](https://www.storeysfieldcentre.org.uk/contact2/) in Eddington, just north of the centre of Cambridge.
 
-* [Travel and Parking](pages/parking.qmd)
-* [Accommodation](pages/accommodation.qmd)
+The address is:
+Storey's Field Centre
+Eddington
+Cambridge
+CB3 1AA
+
+It is around 15 minutes drive from the centre of Cambridge, 20 minutes from the train station.
+
+There is **no parking** at the site! The nearest car park is Madingley Road Park and Ride, around 7 minutes walk from the venue.
+
+Please bear this in mind and see [this page](parking.qmd) for more parking and travel information.
+
+* [Travel and Parking](parking.qmd)
+* [Accommodation](accommodation.qmd)

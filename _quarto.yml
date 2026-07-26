@@ -27,5 +27,9 @@ format:
     css: styles.css
     toc: true
 
+filters:
+  - quarto
+  - fwrappe
+
 
 
