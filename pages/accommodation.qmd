@@ -1,5 +1,28 @@
 ---
 format: html
-author: Katy and Duncan
 title: Accommodation
 ---
+![](images/AN16.png){width="50%" fig-alt="A cartoon of a horse, I think, drinking on a sun lounger"}
+
+Across the road from our wedding venue there is a holiday apartment block and a hotel.
+
+The apartment block is **[Turing Locke](https://www.lockeliving.com/en/cambridge/turing-locke)**
+
+This is where we will be staying. Currently the price there ranges from about £85 per night for a studio apartment to £200 per night for a two bedroom family apartment, but prices seem to vary quite a lot day-to-day.
+
+On the Turing Locke website, if you sign up for the newsletter you get 10% off and free late checkout.
+
+The hotel is **[Hyatt Centric Cambridge](https://www.hyatt.com/hyatt-centric/en-US/stnct-hyatt-centric-cambridge)**
+
+**Important** - parking for either of these places is £20 extra per night and very limited! 
+
+There is also a car park (part of [Madingley Road Park and Ride](https://cambridgeparkandride.info/madingleyroad-about.shtml)) which is 7 minutes walk from either Turing Locke or the Hyatt and also the wedding. It’s free for the first 18 hours, after that the charge is:
+
+* 18 - 24 hours £10		
+* 24 - 48 hours £20		
+* 48 - 72 hours £30
+
+There’s a [Premier Inn](www.premierinn.com/gb/en/hotels/england/cambridgeshire/cambridge/cambridge-north-girton.html) around 10 minutes walk from the wedding which has free parking. Parking aside, the prices are similar to Turing Locke and a little cheaper than Hyatt Centric.
+
+Otherwise, central Cambridge has many hotels and is a short taxi ride (approx £10 - £15) away. The north side of the city centre is fractionally closer to the wedding venue. There is nowhere to park at the wedding except the same Madingley Road Park and Ride car park, 7 minutes walk away, so please bear that in mind.
+
