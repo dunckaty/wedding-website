@@ -3,7 +3,7 @@ format: html
 title: Travel and Parking
 ---
 
-![](images/AN26.png){width="20%" fig-alt="A cartoon of a flustered goose"}
+![](images/AN06.png){width="20%" fig-alt="A cartoon of a dog walking"}
 
 ## Location
 
