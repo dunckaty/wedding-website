@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+/* Sidebar */
+#quarto-sidebar {
+  background-color: #8DABC7; // pale green-grey
+}
+
+/* Main headings */
+#quarto-content h1 {
+  color: #36536D; // deep teal
+}
+
+/* Subheadings */
+#quarto-content h2 {
+  color: #36536D; // muted peach/coral
+}
+
+/* Links in main content */
+#quarto-content a {
+  color: #D17604; // warm rust
+}
+
+/* Links in sidebar */
+#quarto-sidebar a {
+  color: #FFFFFF;
+}
+
+#TOC a {
+  color: #D17604 !important;
+}
+
+#TOC a:hover,
+#TOC a:focus {
+  color: #D17604 !important;
+}
+
+#TOC a.active {
+  color: #D17604 !important;
+}
