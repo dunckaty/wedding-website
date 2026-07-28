@@ -1,27 +1,95 @@
 ---
 format: html
-author: Katy and Duncan
 title: General Information
 ---
+![](images/AN12.png){width="35%" .wrap-right fig-alt="A cartoon of a happy dancing frog"}
+![](images/AN27.png){width="30%" .wrap-right fig-alt="A cartoon of a happy dancing bear in a cardigan"}
+
+
+We can't wait to see you at our wedding!
+
 
 ## Location
-
-![](images/AN08.png){width="20%" .wrap-right}
-
 
 Our wedding will be at [Storey's Field Centre](https://www.storeysfieldcentre.org.uk/contact2/) in Eddington, just north of the centre of Cambridge.
 
 The address is:
-Storey's Field Centre
-Eddington
-Cambridge
-CB3 1AA
+
+Storey's Field Centre<br>
+Eddington<br>
+Cambridge<br>
+CB3 1AA<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.3454123786423!2d0.08576657705296767!3d52.21894205847493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d877313dc9b947%3A0x3e3e84b4710f53bc!2sStorey's%20Field%20Centre!5e0!3m2!1sen!2suk!4v1785230780225!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 It is around 15 minutes drive from the centre of Cambridge, 20 minutes from the train station.
 
-There is **no parking** at the site! The nearest car park is Madingley Road Park and Ride, around 7 minutes walk from the venue.
+## Travel and Parking
 
-Please bear this in mind and see [this page](parking.qmd) for more parking and travel information.
+Please be aware that there is **no parking** at the venue! The nearest car park is [Madingley Road Park and Ride](https://cambridgeparkandride.info/madingleyroad-about.shtml), around 7 minutes walk from the venue.
+
+Please bear this in mind! More info in the link below.
 
 * [Travel and Parking](parking.qmd)
+
+## Accommodation
+
+There is lots of reasonably priced accommodation nearby, including directly across the road from the venue. See the link below for more info.
+
 * [Accommodation](accommodation.qmd)
+
+## Schedule
+
+The ceremony is scheduled to start at 2pm, please aim to arrive around 1:30pm. The venue closes at midnight.
+
+* [Full schedule](timeline.qmd)
+
+## Food and Drinks
+
+We will provide afternoon snacks, a full meal at around 4:30pm and evening snacks.
+
+Wine and soft drinks will be provided by us throughout the day and there will be a full bar where you can purchase other drinks.
+
+* [Evening meal menu](food.qmd)
+
+## Dress Code
+
+Smart-casual - there's no strict dress code – just come in something you feel good in.
+
+The wedding will be entirely indoors but we might take a few photos outside if it isn’t too rainy. If you’re bringing kids there’s an outdoor playground next door so you might want warm and puddle-friendly clothes for that. We’ll have some kind of storage for coats etc. Please remember that it might be a few minutes walk from your car if you’re driving.
+
+## Gifts
+
+No gifts are needed, we're very happy just to see you. If you'd prefer to give us something, we'd be very grateful for a contribution towards our honeymoon [here](xxx) or on the day. We also have a small registry [here](xxx). Or, if you'd prefer to give us something else entirely, that's great too!
+
+## Kids
+
+Any kids we've invited are very welcome and we'd love to see them! We will have some small games and activities available. However, it will be primarily an adult event so there will be alcohol present and unfettered access to sugar, please bear this in mind. 
+
+We're hoping to hire a babysitter to set up a kids rest and movie area in a side room during the late evening, but this depends on how many kids can attend, so is to be confirmed.
+
+## Friday night
+
+If you are around in Cambridge in the evening on Fri Dec 4th, we have booked a room in [The Castle Inn](https://thecastleinn.pub/) and plan to be there from around 7pm - 9pm. We'd love to see anyone who can make it. There is food available to buy, or pop in just for a drink!
+
+## Accessibility
+
+The venue is all on one level and accessible throughout. There are three disabled parking spaces available. If there is anything else that would be helpful for you, please let us know on your RSVP.
+
+## RSVP
+
+**Please RSVP online by October 5th 2026 - even if you already told us if you're coming!**
+
+* [RSVP](rsvp.qmd)
+
+## Contact
+
+### Email
+
+* **Katy**: thekatybrown@gmail.com
+* **Duncan**: duncan.cross@gmail.com
+
+### WhatsApp
+
+* **Katy**: 07984 550111
+* **Duncan**: 07943 698516
