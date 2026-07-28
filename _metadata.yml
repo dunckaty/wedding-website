@@ -1,0 +1,9 @@
+format:
+  html:
+    theme:
+      - journal
+      - custom.scss
+    toc: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
