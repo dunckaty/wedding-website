@@ -17,19 +17,16 @@ website:
       - pages/accommodation.qmd
       - pages/parking.qmd
       - pages/food.qmd
-      - pages/gifts.qmd
       - pages/rsvp.qmd
 
 format:
   html:
     theme:
       - journal
-    css: styles.css
+      - custom.scss
+    css: custom.scss
     toc: true
 
 filters:
   - quarto
   - fwrappe
-
-
-
