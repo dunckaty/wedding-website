@@ -11,13 +11,10 @@ format: html
 fig-alt="A photo of Katy and Duncan"}
 
 
-
-
 * [General Information](pages/general.qmd)
 * [Timeline](pages/timeline.qmd)
 * [Accommodation](pages/accommodation.qmd)
 * [Parking](pages/parking.qmd)
-* [Gifts](pages/gifts.qmd)
 * [RSVP](pages/rsvp.qmd)
 
 
