@@ -1,5 +1,53 @@
 ---
 format: html
-author: Katy and Duncan
-title: Parking
+title: Travel and Parking
 ---
+
+![](images/AN26.png){width="20%" fig-alt="A cartoon of a flustered goose"}
+
+## Location
+
+Our wedding will be at [Storey's Field Centre](https://www.storeysfieldcentre.org.uk/contact2/) in Eddington, just north of the centre of Cambridge.
+
+The address is:
+
+Storey's Field Centre<br>
+Eddington<br>
+Cambridge<br>
+CB3 1AA<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.3454123786423!2d0.08576657705296767!3d52.21894205847493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d877313dc9b947%3A0x3e3e84b4710f53bc!2sStorey's%20Field%20Centre!5e0!3m2!1sen!2suk!4v1785230780225!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+It is around 15 minutes drive from the centre of Cambridge, 20 minutes from the train station.
+
+## Parking
+
+There is **no parking** at the venue! The nearest car park is [Madingley Road Park and Ride](https://cambridgeparkandride.info/madingleyroad-about.shtml), around 7 minutes walk from the venue. Although it's a Park and Ride Car Park, you won't need to take a bus - you can just walk to the venue from the car park.
+
+The Park & Ride Car Park is free for up to 18 hours, after this the current prices are:
+
+* 18 - 24 hours £10		
+* 24 - 48 hours £20		
+* 48 - 72 hours £30
+
+## Trains
+
+Cambridge and Cambridge North railway stations are about the same distance from the venue (about 5 miles). [Cambridge North](https://www.greateranglia.co.uk/travel-information/station-information/cmb) has an NCP car park, there's little parking at the main Cambridge station. From either station a taxi to the venue will be about £10-£15. 
+
+## Taxis
+
+Cambridge has plenty of Ubers and the occasional Bolt, alternatives are [Veezu](https://www.veezu.co.uk/cambridge) and [CamCab](https://camcab.co.uk/).
+
+A taxi from the centre of Cambridge to the venue will usually be about £10.
+
+## Buses
+
+The venue is directly on the [U bus](https://www.whippetbus.co.uk/universal/) route at the Eddington Sainsburys stop, this route also goes to the main Cambridge railway station (20 mins) and the city centre (15 mins). Buses don't run after 10pm.
+
+## Airports
+
+Cambridge is very easy to get to from Stansted airport, around [30-40 minutes by direct train](https://www.greateranglia.co.uk/train-times/stansted-airport-to-cambridge). 
+
+From Gatwick there is also a [direct train](https://www.thameslinkrailway.com/journey/cambridge-to-gatwick-airport), it takes around two hours.
+
+From Heathrow there is no direct train but there is a [coach](https://www.nationalexpress.com/en/destinations/cambridge/heathrow-to-cambridge?gclsrc=aw.ds&gad_source=1&gad_campaignid=21316012784&gclid=CjwKCAjwpqHTBhAcEiwAj2AfumMeR30mOZQ4xrPO69rUnQliJW5unngZdu_fuy93TjIVKLK3RJnEexoC2a0QAvD_BwE), which takes just over two hours.
