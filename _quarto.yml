@@ -19,6 +19,9 @@ website:
       - pages/food.qmd
       - pages/rsvp.qmd
 
+resources:
+  - pages/images/
+
 format:
   html:
     theme:
