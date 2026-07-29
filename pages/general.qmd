@@ -2,9 +2,13 @@
 format: html
 title: General Information
 ---
+
+<br>
+
 ![](images/AN12.png){width="35%" .wrap-right fig-alt="A cartoon of a happy dancing frog"}
 ![](images/AN27.png){width="30%" .wrap-right fig-alt="A cartoon of a happy dancing bear in a cardigan"}
 
+<br>
 
 We can't wait to see you at our wedding!
 

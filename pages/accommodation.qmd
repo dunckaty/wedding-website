@@ -2,7 +2,12 @@
 format: html
 title: Accommodation
 ---
-![](images/AN16.png){width="50%" fig-alt="A cartoon of a horse, I think, drinking on a sun lounger"}
+
+<br>
+
+![](images/AN16.png){width="40%" fig-alt="A cartoon of a horse, I think, drinking on a sun lounger"}
+
+<br>
 
 Across the road from our wedding venue there is a holiday apartment block and a hotel.
 

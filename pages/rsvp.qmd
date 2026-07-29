@@ -2,3 +2,16 @@
 format: html
 title: RSVP
 ---
+
+<br>
+
+![](images/AN24.png){width="15%" fig-alt="A cartoon of a big dancing rabbit"}
+
+<br>
+
+
+Please RSVP by **October 5th 2026** by following [this link](https://shorturl.at/WwHap) and entering the code from the invitation.
+
+* If you have lost the code, there is an option to search using your name.
+* If you RSVP and then change your mind about something, please RSVP again - we'll use the most recent. 
+* If something changes after Oct 5th, please message or email one of us and let us know.

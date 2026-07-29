@@ -3,7 +3,11 @@ format: html
 title: Menu
 ---
 
+<br>
+
 ![](images/AN06.png){width="20%" fig-alt="A cartoon of a bear eating an ice cream"}
+
+<br>
 
 Our main meal will be served family style, meaning that all of the dishes will be placed on the tables for you to help yourself to a bit of everything - except please note that the vegetarian mains will only be available if you select these as a dietary requirement on your RSVP.
 

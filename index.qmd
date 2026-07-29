@@ -1,11 +1,16 @@
 ---
 title: "Katy and Duncan's Wedding"
 format: html
+toc: false
+anchor-sections: false
 ---
 
+## Storey's Field Centre, Eddington, Cambridge, CB3 1AA {.toc-ignore}
 
-## Storey's Field Centre, Eddington, Cambridge, CB3 1AA
-##  Dec 5th 2026, 1:30pm
+
+###  Dec 5th 2026, 1:30pm {.toc-ignore}
+
+<br>
 
 ![](pages/images/dunckaty.jpeg){width="50%"
 fig-alt="A photo of Katy and Duncan"}

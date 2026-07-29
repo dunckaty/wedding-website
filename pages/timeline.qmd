@@ -2,8 +2,11 @@
 format: html
 title: Timeline
 ---
+<br>
 
 ![](images/AN05.png){width="20%" fig-alt="A cartoon of a cat DJing"}
+
+<br>
 
 Here's roughly how we expect the day to go. There will be plenty of time throughout to relax, chat, eat, drink and generally enjoy.
 
