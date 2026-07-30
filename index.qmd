@@ -16,7 +16,7 @@ anchor-sections: false
 fig-alt="A photo of Katy and Duncan"}
 
 
-* [General Information](pages/general.qmd)
+* [Main Information](pages/general.qmd)
 * [Timeline](pages/timeline.qmd)
 * [Accommodation](pages/accommodation.qmd)
 * [Travel and Parking](pages/parking.qmd)

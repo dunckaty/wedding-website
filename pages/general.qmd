@@ -1,6 +1,6 @@
 ---
 format: html
-title: General Information
+title: Main Information
 ---
 
 <br>
