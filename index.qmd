@@ -16,11 +16,13 @@ anchor-sections: false
 fig-alt="A photo of Katy and Duncan"}
 
 
+
 * [Main Information](pages/general.qmd)
+* [RSVP](pages/rsvp.qmd)
 * [Timeline](pages/timeline.qmd)
 * [Accommodation](pages/accommodation.qmd)
 * [Travel and Parking](pages/parking.qmd)
 * [Menu](pages/food.qmd)
-* [RSVP](pages/rsvp.qmd)
+
 
 
