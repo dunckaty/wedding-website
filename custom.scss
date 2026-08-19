@@ -54,3 +54,9 @@ body {
 #TOC a {
   border-left: none !important;
 }
+
+@media (max-width: 1000px) {
+  body {
+    background-image: none;
+  }
+}
