@@ -38,11 +38,45 @@
 }
 
 body {
-  background-image: url("pages/images/flowers_r.png");
-  background-position: right top;
-  background-repeat: repeat-y;
-  background-size: 250px auto;
+  overflow-x: hidden;
 }
+
+
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  height: 150px;
+
+  background-image: url("pages/images/flowers_trimmed.png");
+  background-position: left bottom;
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+
+  z-index: 0;
+  pointer-events: none;
+}
+
+#quarto-sidebar {
+  background-color: #BACFC2;
+  z-index: 1;
+}
+main.content {
+  padding-bottom: 100px;
+}
+
+#quarto-sidebar {
+  background-color: #BACFC2;
+}
+
 
 #TOC .active {
   border-left: none !important;
@@ -55,8 +89,4 @@ body {
   border-left: none !important;
 }
 
-@media (max-width: 1500px) {
-  body {
-    background-image: none;
-  }
-}
+
