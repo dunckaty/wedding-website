@@ -1,6 +1,8 @@
 ---
 format: html
 title: Accommodation
+toc: false
+
 ---
 
 <br>

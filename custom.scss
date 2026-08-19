@@ -1,38 +1,56 @@
 /*-- scss:defaults --*/
 /* Sidebar */
 #quarto-sidebar {
-  background-color: #8DABC7; // pale green-grey
+  background-color: #BACFC2; // pale green-grey
 }
 
 /* Main headings */
 #quarto-content h1 {
-  color: #36536D; // deep teal
+  color: #476653; // deep teal
 }
 
 /* Subheadings */
 #quarto-content h2 {
-  color: #36536D; // muted peach/coral
+  color: #476653; // muted peach/coral
 }
 
 /* Links in main content */
 #quarto-content a {
-  color: #D17604; // warm rust
+  color: #4a84b0ff; // warm rust
 }
 
 /* Links in sidebar */
 #quarto-sidebar a {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 #TOC a {
-  color: #D17604 !important;
+  color: #000000 !important;
 }
 
 #TOC a:hover,
 #TOC a:focus {
-  color: #D17604 !important;
+  color: #000000 !important;
 }
 
 #TOC a.active {
-  color: #D17604 !important;
+  color: #000000 !important;
+}
+
+body {
+  background-image: url("pages/images/flowers_r.png");
+  background-position: right top;
+  background-repeat: repeat-y;
+  background-size: 250px auto;
+}
+
+#TOC .active {
+  border-left: none !important;
+}
+#TOC {
+  border-left: none !important;
+}
+
+#TOC a {
+  border-left: none !important;
 }

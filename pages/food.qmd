@@ -1,6 +1,8 @@
 ---
 format: html
 title: Menu
+toc: false
+
 ---
 
 <br>
